@@ -28,12 +28,6 @@
     4. Canvas
 
 * Wireframes / Screenshot
-* 
-    - ![Screenshot 2022-12-22 at 8 59 22 PM](https://user-images.githubusercontent.com/120142329/209256034-862e7c37-eaa5-4782-b8bb-e3a9862ddfea.png)
 
-
-
-
-* Create Entity Relationship Diagrams.
 
 
