@@ -25,7 +25,7 @@
     4. Canvas
 
 * Wireframes / Screenshot
-    - ![Alt text](../../../../Desktop/Screenshot%202022-12-22%20at%208.35.47%20PM.png)
+    - !https://i.imgur.com/ETGJcxy.png
 
 
 * Create Entity Relationship Diagrams.
