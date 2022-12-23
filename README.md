@@ -25,7 +25,8 @@
     4. Canvas
 
 * Wireframes / Screenshot
-    - ![Screenshot 2022-12-22 at 8 35 47 PM](https://user-images.githubusercontent.com/120142329/209254226-887d2d4c-6014-4942-9d68-19d4d157cceb.png)
+    - ![Screenshot 2022-12-22 at 8 59 22 PM](https://user-images.githubusercontent.com/120142329/209256034-862e7c37-eaa5-4782-b8bb-e3a9862ddfea.png)
+
 
 
 
